@@ -1,0 +1,14 @@
+// resta.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <iostreamz>
+#include "conio.h"
+ using namespace std;
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	cout<<"hola mundo";
+	getch();
+	return 0;
+}
